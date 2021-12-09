@@ -1,0 +1,13 @@
+name: Wine-Characteristics
+title: Wine-Characteristics
+username:
+account: sjeffs2019
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5295774
+bundleId: 5348187
+url: https://sjeffs2019.shinyapps.io/Wine-Characteristics/
+when: 1639016915.76323
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes|README.md|data/.DS_Store
