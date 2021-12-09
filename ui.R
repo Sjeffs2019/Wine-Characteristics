@@ -35,7 +35,7 @@ ui <- (fluidPage(
                                             c("ABV", "pH","Density", "Total Sulfur Dioxide", "Free Sulfur Dioxide", "Chlorides", "Residual Sugar", "Citric Acid", "Volatile Acidity", "Fixed Acidity")
                                 ),
                                 selectInput(inputId = "independent",
-                                            label = "Choose a Independent Variable",
+                                            label = "Choose an Independent Variable",
                                             c("Density", "pH","Total Sulfur Dioxide", "Free Sulfur Dioxide", "Chlorides", "Quality", "Residual Sugar", "Citric Acid", "Volatile Acidity", "Fixed Acidity")
                                 ),
                                 selectInput(inputId = "third",
