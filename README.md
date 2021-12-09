@@ -1,7 +1,7 @@
 # Wine Characteristcs
  
- This dataset is related to the red variants of the Portuguese "Vinho Verde" wine. It contains 1599 different wines (observations) each with multiple variables describing the physicochemicals and quality of the wine.
- My app can be used to analysis the relationship between different variables by using the data to fit a regression model or by ploting the data for a visual of the relationship between up tp three different variables. 
+ This dataset is related to the red variants of the Portuguese "Vinho Verde" wine. It contains 1,599 different wines (observations) each with multiple variables describing the physicochemicals and quality of the wine.
+ My app can be used to analysis the relationship between different variables by using the data to fit a regression model or by ploting the data for a visual of the relationship between up to three different variables. 
  
  ### Database Source:
  
